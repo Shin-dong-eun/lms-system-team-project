@@ -76,8 +76,8 @@
 
 <div align=center>
     <img width="30%" src="https://github.com/Yujin051/lms-system-team-project/assets/142381899/5e98ec97-179c-4102-a477-ebb84a6fb0eb.png"/>
-    <img width="30%" src="https://github.com/Yujin051/lms-system-team-project/assets/142381899/192c17e6-773a-4eb2-82be-0eacb68ecb2c.png"/>
-    <img width="30%" src="https://github.com/Yujin051/lms-system-team-project/assets/142381899/a3d306c7-b982-489f-912a-d065003f1cc2"/>
+    <img width="30%" src="https://github.com/Yujin051/lms-system-team-project/assets/142381874/5d326085-ff62-44c7-8217-b48cbaf73676.png"/>
+    <img width="30%" src="https://github.com/Yujin051/lms-system-team-project/assets/142381874/7cde7fdc-2ae2-4606-9a35-7b7ff04093da.png"/>
 </div>
 
 <div align=center>
